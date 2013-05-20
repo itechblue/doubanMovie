@@ -1,0 +1,46 @@
+/* 
+  Localizable.strings
+  MrEggSore
+
+  Created by Simon on 13-5-12.
+  Copyright (c) 2013年 itechblue. All rights reserved.
+*/
+
+"NO" = "取消";
+"YES" = "确定";
+"OK" = "确定";
+//EGORefreshTableHeaderView
+"Release to refresh..." = "松开可刷新...";
+"Pull down to refresh..." = "下拉刷新";
+"Pull right to refresh..." = "右拉刷新";
+"Loading..." = "加载中...";
+
+//KxMovieDecoder
+"Unable to open file" = "无法打开这个视频>_<";
+"Unable to find stream information" = "无法找到流媒体信息";
+"Unable to find stream" = "无法找到流媒体";
+"Unable to find codec" = "无法进行解码";
+"Unable to open codec" = "无法进行解码";
+"Unable to allocate frame" = "无法定位视频帧";
+"Unable to setup scaler" = "无法建立计数器";
+"Unable to setup resampler" = "无法进行重采样";
+"The ability is not supported" = "无法打开这个视频>_<";
+
+//KxMovieViewController
+"Done" = "完成";
+"Failure" = "错误";
+"Out of memory" = "内存溢出";
+"Close" = "关闭";
+"General" = "通用";
+"Metadata" = "元数据";
+"Video" = "视频";
+"Audio" = "音频";
+"Subtitles" = "字幕";
+"Bitrate" = "码率";
+"Format" = "格式";
+"Disable" = "不可用";
+"buffering" = "缓冲中";
+//NIWebController
+"Cancel" = "取消";
+"Open in Safari" = "在Safari中打开";
+"Copy URL" = "复制链接";
