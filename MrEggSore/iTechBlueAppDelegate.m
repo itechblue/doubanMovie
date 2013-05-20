@@ -7,7 +7,7 @@
 //
 
 #import "iTechBlueAppDelegate.h"
-#import <Parse/Parse.h>
+//#import <Parse/Parse.h>
 #import "MobClick.h"
 #import "BaiduMobStat.h"
 #import "Project.h"
@@ -48,8 +48,8 @@
     [statTracker startWithAppId:baiduMobAppKey];
 
     //parse
-    [Parse setApplicationId:@"s4xdv5vze4ccWPkpBYYhT5OpaFaVYGJLDLM2VCMz"
-                  clientKey:@"iaruHkSkaiGEm4eQi8hqJRCQYbtQHWvPea3mkc48"];
+//    [Parse setApplicationId:@"s4xdv5vze4ccWPkpBYYhT5OpaFaVYGJLDLM2VCMz"
+//                  clientKey:@"iaruHkSkaiGEm4eQi8hqJRCQYbtQHWvPea3mkc48"];
 }
 
 - (void)initCtrollers
